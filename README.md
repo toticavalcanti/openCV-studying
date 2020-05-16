@@ -11,5 +11,5 @@ This repository is the home code for my openCV experiments.
 
 ## Requirements
 
-- OpenCV
-- numpy
+- OpenCV installed
+- numpy installed

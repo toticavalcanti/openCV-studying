@@ -3,7 +3,7 @@ import cv2
 
 face_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_frontalface_alt2.xml')
 
-url = 'http://192.168.0.246:8080/video'
+url = 'http://192.168.0.146:8080/video'
 cap = cv2.VideoCapture(url)
 
 while(True):
